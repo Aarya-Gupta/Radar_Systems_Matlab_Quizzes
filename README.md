@@ -70,4 +70,4 @@ C:\Users\aarya\Github_Projects\Radar_Systems_Matlab_Quizzes
 
 ## Contact
 
-For questions or feedback, please reach out to Aarya Gupta at \[[your.email@example.com](mailto:aarya22006@iiitd.ac.in)].
+For questions or feedback, please reach out to Aarya Gupta at \[[aarya22006@iiitd.ac.in](mailto:aarya22006@iiitd.ac.in)].
